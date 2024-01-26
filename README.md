@@ -1,7 +1,7 @@
 Using:
 jre 1.8 8u351 
 jdk 17
-
+sqljdbc_12.2
 activation-1.1.1.jar
 AbsoluteLayout.jar
 jcalendar-1.4.jar
