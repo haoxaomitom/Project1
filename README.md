@@ -1,5 +1,6 @@
 Using:
-jre 1.8 8u351 
+jre 1.8 8u351
+
 jdk 17
 sqljdbc_12.2
 activation-1.1.1.jar
