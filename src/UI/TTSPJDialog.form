@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JSeparator" name="jSeparator1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1070, 1080]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="1048" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Properties>
+        <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel1" min="-2" pref="1041" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="jLabel4" alignment="0" pref="1061" max="32767" attributes="0"/>
+                              <Component id="jLabel5" alignment="0" max="32767" attributes="0"/>
+                              <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel3" alignment="0" min="-2" pref="1020" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="jLabel12" alignment="0" max="32767" attributes="0"/>
+                              <Component id="jLabel8" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel13" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel14" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel15" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel16" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jScrollPane2" alignment="0" min="-2" pref="1020" max="-2" attributes="0"/>
+                          <Component id="jLabel17" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel18" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel19" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel20" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel21" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel22" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel23" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel24" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel25" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" pref="1020" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="1026" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel15" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel16" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel20" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel21" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel22" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel23" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel24" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel25" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="1170" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="24" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="Th&#xf4;ng tin s&#x1ea3;n ph&#x1ea9;m"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/img/iphone-15-pro-131023-034959.jpg"/>
+                </Property>
+                <Property name="horizontalTextPosition" type="int" value="0"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/img/iphone-15-pro-2.jpg"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="jLabel3"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/img/iphone-15-pro-3.jpg"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/img/iphone-15-pro-4.jpg"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel6">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/img/iphone-15-pro-5.jpg"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextPane" name="txtReview">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="null"/>
+                    </Property>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Segoe UI" size="24" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="V&#xe0;o th&#xe1;ng 09/2023, cu&#x1ed1;i c&#xf9;ng Apple c&#x169;ng &#x111;&#xe3; ch&#xed;nh th&#x1ee9;c gi&#x1edb;i thi&#x1ec7;u iPhone 15 Pro Max 512 GB t&#x1ea1;i s&#x1ef1; ki&#x1ec7;n ra m&#x1eaf;t th&#x1b0;&#x1edd;ng ni&#xea;n v&#x1edb;i nhi&#x1ec1;u &#x111;i&#x1ec3;m &#x111;&#xe1;ng ch&#xfa; &#xfd;, n&#x1ed5;i b&#x1ead;t trong s&#x1ed1; &#x111;&#xf3; c&#xf3; th&#x1ec3; k&#x1ec3; &#x111;&#x1ebf;n nh&#x1b0; s&#x1ef1; g&#xf3;p m&#x1eb7;t c&#x1ee7;a chipset Apple A17 Pro c&#xf3; tr&#xea;n m&#xe1;y, thi&#x1ebf;t k&#x1ebf; khung titan hay c&#x1ed5;ng Type-C l&#x1ea7;n &#x111;&#x1ea7;u c&#xf3; m&#x1eb7;t tr&#xea;n &#x111;i&#x1ec7;n tho&#x1ea1;i iPhone."/>
+                    <Property name="focusable" type="boolean" value="false"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="24" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Thi&#x1ebf;t k&#x1ebf; vu&#xf4;ng v&#x1eaf;n sang tr&#x1ecd;ng"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="iPhone 15 Pro Max 512 GB v&#x1eab;n gi&#x1eef; ki&#x1ec3;u d&#xe1;ng vu&#xf4;ng v&#x1eaf;n v&#xe0; g&#xf3;c c&#x1ea1;nh gi&#x1ed1;ng nh&#x1b0; nh&#x1eef;ng phi&#xea;n b&#x1ea3;n tr&#x1b0;&#x1edb;c &#x111;&#xe2;y, c&#xe1;ch l&#xe0;m n&#xe0;y mang &#x111;&#x1ebf;n c&#xe1;i nh&#xec;n sang tr&#x1ecd;ng v&#xe0; th&#x1edd;i" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="th&#x1b0;&#x1ee3;ng nh&#x1eb1;m gi&#xfa;p b&#x1ea1;n t&#x1ecf;a s&#xe1;ng d&#xf9; &#x1edf; b&#x1ea5;t k&#x1ef3; n&#x1a1;i &#x111;&#xe2;u m&#x1ed7;i khi c&#x1ea7;m &#x111;i&#x1ec7;n tho&#x1ea1;i tr&#xea;n tay."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x110;&#x1ed1;i v&#x1edb;i ph&#x1ea7;n khung bao quanh th&#xe2;n m&#xe1;y, n&#x103;m nay Apple &#x111;&#xe3; kh&#xf4;ng c&#xf2;n s&#x1eed; d&#x1ee5;ng th&#xe9;p kh&#xf4;ng g&#x1ec9; n&#x1eef;a m&#xe0; thay v&#xe0;o &#x111;&#xf3; l&#xe0; ch&#x1ea5;t li&#x1ec7;u titanium, &#x111;i&#x1ec1;u n&#xe0;y mang l&#x1ea1;i s&#x1ef1; t&#x1ed1;i &#x1b0;u"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="v&#x1ec1; kh&#x1ed1;i l&#x1b0;&#x1ee3;ng, song c&#x169;ng mang l&#x1ea1;i hi&#x1ec7;u qu&#x1ea3; v&#x1ec1; m&#x1eb7;t &#x111;&#x1ed9; b&#x1ec1;n nh&#x1edd; &#x111;&#x1ed9; c&#x1ee9;ng c&#xe1;p t&#x1ed1;t h&#x1a1;n, gi&#x1ea3;m thi&#x1ec3;u m&#x1ee9;c &#x111;&#x1ed9; r&#x1ee7;i ro khi va &#x111;&#x1ead;p ho&#x1eb7;c x&#xe2;y x&#xe1;t &#x111;i&#x1ec7;n tho&#x1ea1;i."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel12">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/img/iphone-15-pro-6.jpg"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel13">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="M&#x1eb7;t l&#x1b0;ng k&#xed;nh c&#x1b0;&#x1edd;ng l&#x1ef1;c cao c&#x1ea5;p c&#x1ee7;a iPhone 15 Pro Max 512 GB &#x111;&#x1b0;&#x1ee3;c l&#xe0;m theo ki&#x1ec3;u nh&#xe1;m, mang &#x111;&#x1ebf;n c&#x1ea3;m gi&#xe1;c m&#x1ec1;m m&#x1ea1;i v&#xe0; sang tr&#x1ecd;ng cho thi&#x1ebf;t b&#x1ecb;. &#x110;&#xe2;y kh&#xf4;ng ch&#x1ec9; l&#xe0; "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel14">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="m&#x1ed9;t &#x111;&#x1eb7;c &#x111;i&#x1ec3;m th&#x1ea9;m m&#x1ef9; m&#xe0; c&#xf2;n c&#x1ea3;i thi&#x1ec7;n t&#xed;nh b&#x1ec1;n b&#x1ec9; v&#xe0; kh&#x1ea3; n&#x103;ng ch&#x1ed1;ng tr&#x1ea7;y x&#x1b0;&#x1edb;c c&#x1ee7;a &#x111;i&#x1ec7;n tho&#x1ea1;i."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="N&#x103;m nay Apple v&#x1eab;n duy tr&#xec; d&#x1ea1;ng h&#xec;nh notch theo ki&#x1ec3;u vi&#xea;n thu&#x1ed1;c v&#xe0; &#x111;i k&#xe8;m v&#x1edb;i t&#xed;nh n&#x103;ng Dynamic Island &#x111;&#x1ed1;i v&#x1edb;i th&#x1ebf; h&#x1ec7; iPhone m&#x1edb;i c&#x1ee7;a h&#xe3;ng. "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel16">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/img/iphone-15-pro-7.jpg"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="T&#xed;nh n&#x103;ng n&#xe0;y mang &#x111;&#x1ebf;n tr&#x1ea3;i nghi&#x1ec7;m s&#x1eed; d&#x1ee5;ng th&#xfa; v&#x1ecb; khi cho ph&#xe9;p ng&#x1b0;&#x1edd;i d&#xf9;ng t&#x1b0;&#x1a1;ng t&#xe1;c v&#x1edb;i m&#x1ed9;t v&#xe0;i &#x1ee9;ng d&#x1ee5;ng th&#xf4;ng qua ph&#x1ea7;n h&#xec;nh notch, c&#xe1;c ti&#x1ec7;n &#xed;ch th&#x1b0;&#x1edd;ng &#x111;&#x1b0;&#x1ee3;c s&#x1eed;"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel18">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="d&#x1ee5;ng c&#xf3; th&#x1ec3; k&#x1ec3; &#x111;&#x1ebf;n nh&#x1b0;: Tr&#xec;nh ph&#xe1;t nh&#x1ea1;c thu nh&#x1ecf;, hi&#x1ec3;n th&#x1ecb; th&#xf4;ng b&#xe1;o v&#xe0; th&#x1edd;i l&#x1b0;&#x1ee3;ng cu&#x1ed9;c g&#x1ecd;i, hi&#x1ec3;n th&#x1ecb; tr&#x1ea1;ng th&#xe1;i k&#x1ebf;t n&#x1ed1;i AirPods hay xem ch&#x1ec9; d&#x1eab;n b&#x1ea3;n &#x111;&#x1ed3;."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel19">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="24" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="S&#x1eed; d&#x1ee5;ng chu&#x1ea9;n s&#x1ea1;c m&#x1edb;i"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel20">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Trong m&#x1ed9;t b&#x1b0;&#x1edb;c &#x111;&#x1ed5;i &#x111;&#xe1;ng ch&#xfa; &#xfd;, iPhone 15 Pro Max 512 GB &#x111;&#xe3; quy&#x1ebf;t &#x111;&#x1ecb;nh t&#x1eeb; b&#x1ecf; c&#x1ed5;ng Lightning quen thu&#x1ed9;c v&#xe0; chuy&#x1ec3;n sang c&#x1ed5;ng Type-C ti&#x1ec7;n l&#x1ee3;i h&#x1a1;n. Quy&#x1ebf;t &#x111;&#x1ecb;nh n&#xe0;y"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel21">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="mang l&#x1ea1;i nhi&#x1ec1;u l&#x1ee3;i &#xed;ch, bao g&#x1ed3;m kh&#x1ea3; n&#x103;ng t&#x1b0;&#x1a1;ng th&#xed;ch r&#x1ed9;ng r&#xe3;i v&#x1edb;i c&#xe1;c thi&#x1ebf;t b&#x1ecb; kh&#xe1;c, cung c&#x1ea5;p tr&#x1ea3;i nghi&#x1ec7;m s&#x1ea1;c nhanh v&#xe0; truy&#x1ec1;n d&#x1eef; li&#x1ec7;u hi&#x1ec7;u qu&#x1ea3; h&#x1a1;n."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel22">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="24" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Thay &#x111;&#x1ed5;i c&#x1ea7;n g&#x1ea1;t chuy&#x1ec3;n &#x111;&#x1ed5;i ch&#x1ebf; &#x111;&#x1ed9; &#xe2;m"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel23">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="iPhone 15 Pro Max 512 GB &#x111;&#xe3; &#x111;&#xe1;nh d&#x1ea5;u m&#x1ed9;t b&#x1b0;&#x1edb;c ti&#x1ebf;n quan tr&#x1ecd;ng li&#xea;n quan &#x111;&#x1ebf;n vi&#x1ec7;c qu&#x1ea3;n l&#xfd; ch&#x1ebf; &#x111;&#x1ed9; &#xe2;m thanh. Thay v&#xec; duy tr&#xec; vi&#x1ec7;c s&#x1eed; d&#x1ee5;ng ph&#xed;m g&#x1ea1;t nh&#x1b0; tr&#x1b0;&#x1edb;c &#x111;&#xe2;y,"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel24">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="thi&#x1ebf;t b&#x1ecb; n&#xe0;y &#x111;&#xe3; chuy&#x1ec3;n ch&#xfa;ng th&#xe0;nh n&#xfa;t b&#x1ea5;m. S&#x1ef1; thay &#x111;&#x1ed5;i n&#xe0;y kh&#xf4;ng ch&#x1ec9; mang l&#x1ea1;i s&#x1ef1; ti&#x1ec7;n l&#x1ee3;i khi &#x111;i&#x1ec1;u ch&#x1ec9;nh &#xe2;m thanh ch&#x1ec9; v&#x1edb;i m&#x1ed9;t c&#x1eed; ch&#x1ec9; &#x111;&#x1a1;n gi&#x1ea3;n c&#x1ee7;a ng&#xf3;n tay, m&#xe0; c&#xf2;n"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel25">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="gi&#x1eef; nguy&#xea;n v&#x1ecb; tr&#xed; truy&#x1ec1;n th&#x1ed1;ng &#x111;&#x1ec3; duy tr&#xec; th&#xf3;i quen s&#x1eed; d&#x1ee5;ng c&#x1ee7;a ng&#x1b0;&#x1edd;i d&#xf9;ng."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
